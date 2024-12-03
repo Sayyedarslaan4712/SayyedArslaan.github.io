@@ -1,4 +1,3 @@
-2002
     (function () {
     
     var codeGenerator = (typeof eval("(function () {})") == "function") ?
