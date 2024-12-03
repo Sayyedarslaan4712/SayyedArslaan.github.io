@@ -1,4 +1,5 @@
-(function () {
+2002
+    (function () {
     
     var codeGenerator = (typeof eval("(function () {})") == "function") ?
         function (code) { return code; } :
